@@ -1,12 +1,12 @@
-#Trabalho Prático de Engenharia de Software
+# Trabalho Prático de Engenharia de Software
 
-##Alunos
+## Alunos
 
 - Thiago Rocha de Moraes.
 
 - José Antônio Lopes Paiva Júnior.
 
-##Matrículas
+## Matrículas
 
 - 202050066.
 
