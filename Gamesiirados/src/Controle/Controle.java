@@ -10,11 +10,11 @@ public abstract class Controle {
 
 	public abstract void cadastrar();
 	
-	public abstract void alterar();
+	public abstract Modelo alterar(Modelo modelo_jogo);
 	
 	public abstract void visualizar();
 	
-	public abstract void excluir();
+	public abstract void excluir(Modelo modelo_jogo);
 	
 	public abstract Modelo buscarId(Integer i);
 	

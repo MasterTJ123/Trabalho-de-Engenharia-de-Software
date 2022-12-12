@@ -43,4 +43,6 @@ public class ModeloJogo extends Modelo {
 		Gamesiirados.Gamesiirados.listas.getLista_jogo().add(this);
 	}
 	
+	
+	
 }

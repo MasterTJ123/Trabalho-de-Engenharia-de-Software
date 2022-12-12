@@ -19,4 +19,8 @@ public class ModeloAluguel extends Modelo {
 		this.lista_jogos = lista_jogos;
 	}
 	
+	public void cadastrar() {
+		Gamesiirados.Gamesiirados.listas.getLista_aluguel().add(this);
+	}
+	
 }
